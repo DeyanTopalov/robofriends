@@ -1,9 +1,6 @@
-import React, { Component } from 'react'; 
-// import './Card.css'
+// import React, { Component } from 'react'; 
+import React from 'react'; 
 
-// class Card extends Component {
-
-// } Keep this out for the moment
 
 const Card = ({name, email, id}) => {
     return (
